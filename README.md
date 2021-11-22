@@ -1,6 +1,6 @@
 <div align=center id="development languages">
     <h3>Languages</h3>
-    <img href="https://www.python.org/" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    [<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>](https://www.python.org/)
 </div>
 
 <br><br><br>
