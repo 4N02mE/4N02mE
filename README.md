@@ -1,12 +1,15 @@
 <div align=center>
-    <div id="development languages">
-        <h3>Languages</h3>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-    </div>
     
-    <div id="projects">
-        <h3>Projects</h3>
-    </div>
+<div id="development languages">
+    <h3>Languages</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+</div>
+    
+<div id="projects">
+    <h3>Projects</h3>
+    <img src="https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+    
+</div>
     
 <br>
     
