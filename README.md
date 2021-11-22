@@ -1,5 +1,5 @@
 ### Languages<br>
-<div id="development languages">
+<div id="development languages" aline="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <br><br><br>
 </div>
