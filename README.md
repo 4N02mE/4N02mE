@@ -1,6 +1,7 @@
 ### Languages<br>
 <div id="development languages">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <br><br><br>
 </div>
 
 [![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
