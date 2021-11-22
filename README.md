@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=e.g&bg_color=ff0000, ff8c00, ffff00, 008000, 0000ff, 4b0082, 800080)
+![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=e.g&bg_color="ff0000, ff8c00, ffff00, 008000, 0000ff, 4b0082, 800080")
 
 <!--
 **4N02mE/4N02mE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
