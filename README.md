@@ -7,7 +7,6 @@
     
 <div id="projects">
     <h3>Projects</h3>
-    <img src="https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
     <a href="https://github.com/4N02mE">
         <img src="https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
     </a>
