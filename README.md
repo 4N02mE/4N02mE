@@ -2,10 +2,14 @@
 
 <div id="Wish list">
     <h3>Wish list to learn</h3>
-    <a>Django</a>
-    <a>TS or JS</a>
-</div>    
-
+    <a>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/>
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Python&logoColor=white"/>
+    </a>
+</div>
+    
 <div id="development languages">
     <h3>Languages</h3>
     <a href="https://www.python.org/">
