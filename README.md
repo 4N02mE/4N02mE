@@ -26,7 +26,7 @@
     
 <br>
     
-![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=e.g)
+![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=eng)
 
 </div>
 
