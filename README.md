@@ -28,7 +28,7 @@
     
 ![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=kr)
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4N02mE&langs_count=5&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4N02mE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
