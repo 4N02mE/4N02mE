@@ -2,7 +2,7 @@
     
 <h4>
     well, now i don't know what i do. <br>
-    i feel that just live without think
+    i feel that just live without think. <br>
 </h4>
     
 <div id="development_languages">
