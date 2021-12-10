@@ -15,5 +15,6 @@
     <img src="https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </a> 
 </div>
-    well, now i don't know what i do
+    
+###well, now i don't know what i do
 </div>
