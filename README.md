@@ -14,8 +14,6 @@
 <a href="https://github.com/4N02mE/MetroPolis">
     <img src="https://img.shields.io/badge/Discord_bot-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 </a> 
-</div><br>
-    
-[![4N02mE's GitHub stats](https://github-readme-stats.vercel.app/api?username=4N02mE&hide=issues&count_private=true&show_icons=true&theme=slateorange&locale=en)](https://github.com/4N02mE)
+</div>
     
 </div>
