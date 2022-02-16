@@ -1,8 +1,7 @@
 <div id="wrap">
     
 <h4>
-    well, now i don't know what i do. <br>
-    i feel just live without think. <br>
+    Let's go
 </h4>
     
 <div id="development_languages">
