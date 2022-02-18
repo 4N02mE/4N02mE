@@ -6,7 +6,7 @@
 </h4>
     
 <div id="development_languages">
-<h3>‣ Languages</h3>
+<h3>‣ Dev Languages</h3>
 
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
