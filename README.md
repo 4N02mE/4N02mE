@@ -18,7 +18,7 @@
 <div id="projects">
 <h3>‣ Projects</h3>
 
-None yet! :D
+Not yet! :D
 <!-- 
 <a href="https://github.com/4N02mE/MetroPolis">
     
