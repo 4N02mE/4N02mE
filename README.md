@@ -1,9 +1,14 @@
 <div id="wrap">
-    
+
+<h4>
+Um...
+</h4>
+<!--
 <h4>
     can't dev python well,<br>
     but i started Go! bacause i just look interesting.
 </h4>
+-->
     
 <div id="development_languages">
 <h3>‣ Dev Languages</h3>
